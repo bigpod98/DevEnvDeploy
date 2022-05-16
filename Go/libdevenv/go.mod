@@ -1,4 +1,4 @@
-module libdevenv/m
+module libdevenv
 
 go 1.18
 
